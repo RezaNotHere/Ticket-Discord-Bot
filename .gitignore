@@ -1,0 +1,10 @@
+# Dependencies
+/node_modules
+
+# Environment Variables
+.env
+
+# Logs
+npm-debug.log
+*.log
+# این فایل خیلی مهمه، اگه نباشه ممکنه ربات به گا برهxD
